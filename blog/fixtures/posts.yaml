@@ -1,0 +1,7 @@
+- model: blog.post
+  pk: 1
+  fields:
+    user: 2
+    title: Привіт, це мій блог на Django
+    body: 'Я створив блог!'
+    pub_date: '2020-12-09T12:32:41+00:00'
